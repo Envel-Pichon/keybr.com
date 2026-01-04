@@ -18,8 +18,8 @@ export class Language implements EnumItem {
     /* id= */ "br",
     /* script= */ "latin",
     /* direction= */ "ltr",
-    /* alphabet= */ "abchc’hdefghijklmnñopqrstuùvwxyz",
-  );  
+    /* alphabet= */ "aàâbchc’hdeêfghiïjklmnñoôprstuüûùvwyz",
+  );
   static readonly CS = new Language(
     /* id= */ "cs",
     /* script= */ "latin",
